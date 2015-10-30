@@ -1,6 +1,6 @@
 ## Exploring the data
 
-Let's do some analytics using python tools on comic book data
+Let's do some analytics using python tools on comic book data. You can find the notebook [here] (http://nbviewer.ipython.org/github/manjush3v/Comics/blob/master/Comics.ipynb)
 
 
 ## Comic characters data
